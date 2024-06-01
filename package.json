@@ -1,6 +1,6 @@
 {
   "name": "m2bil-countdown-timer",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A project of countdown timer with inquirer ",
   "main": "index.js",
   "type": "module",
